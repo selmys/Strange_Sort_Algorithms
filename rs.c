@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define SIZE 11
+#define SIZE 10
 
 int main() {
 	int x[SIZE]={12,3,16,77,3,21,19,91,67,-23};
